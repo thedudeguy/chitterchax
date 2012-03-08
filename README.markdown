@@ -22,7 +22,7 @@ Goals
 * Ability for devs to easily customize/theme/extend/play to have full flexibility without a hassle.
 
 Installation
-============
+------------
 
 1. Download and Extract the module folder (chitterchax) into the Bonfire Modules directory (./bonfire/modules/).
 
@@ -31,7 +31,7 @@ Installation
 3. Navigate to `http://{my-install-domain}/chitterchax` and enjoy.
 
 Current Features
-================
+----------------
 
 * Uses Bonfire's [Authentication](http://cibonfire.com/docs/files/core_modules/users/libraries/auth-php.html) Module
 * [jQuery](http://jquery.com/) plugin functions to set chat elements without rewriting code. (Docs soon hopefully)
@@ -50,7 +50,12 @@ Distant Visions of the Future
 
 ...Damn it. My crystal ball clouded up again, hindering my ability to spy on the future.
 
+License
+-------
+
+[GNU Affero General Public License](http://www.gnu.org/licenses/agpl.html)
+
 Want to Contribute?
-===================
+-------------------
 
 [Yes, please](https://github.com/thedudeguy/chitterchax/fork).
